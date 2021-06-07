@@ -19,7 +19,7 @@ SUPERVIVA FERIZAJ (KOSOVO) | MAY 2013 - NOV 2014
 - Monitoring of absenteeism and implementation of actions.
 
 
-## Education
+## 📚 Education
 
 **BAC + 2 WEB & MOBILE DEVELOPMENT**  
 SIMPLON.CO | DEC 2018 - JULY 2020 VILLEURBANNE
