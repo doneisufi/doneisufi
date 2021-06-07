@@ -8,6 +8,8 @@ learning how to be un awsome **Software Tester** for your unique & beautiful app
   
 [Curios to see my linkedin account? Click right here to get to my profile](https://www.linkedin.com/in/liridona-isufi-1077231a4/)
 
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+
 
 ## Let's dive into my Professional Experience
 
