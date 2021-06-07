@@ -10,4 +10,4 @@ My name is **Liridona ISUFI**, actually part of the *IT-Academy* school based in
 
 **JUNIOR BACK-END WEB DEVELOPER**  
 SIMPLON PROD VENISSIEUX | SEP 2019 - JULY 2020  
-- SIMPLONLINE : 
+- SIMPLONLINE : Collaborative learning platform in active pedagogy (PHP, SYMFONY & API PLATFORM)
