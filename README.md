@@ -4,7 +4,8 @@
 My name is **Liridona ISUFI**, actually part of the *IT-Academy* school based in Lyon,
 learning how to be un awsome **Software Tester** for your unique & beautiful applications, web sites or even your video games!  
 
-## Let's dive into my Professional Experience
+
+## Professional Experience
 
 **JUNIOR BACK-END WEB DEVELOPER**  
 SIMPLON PROD VENISSIEUX | SEP 2019 - JULY 2020  
@@ -31,6 +32,7 @@ National School of Architecture | 2012 - PRISTINA (KOSOVO)
 
 **BACCALAUREATE IN MATHEMATICS AND COMPUTER SCIENCE**  
 Gymnasium "Kuvendi i Arberit" | 2010 - FERIZAJ (KOSOVO)
+
 
 ## Compentences
 
