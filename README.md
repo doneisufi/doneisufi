@@ -3,7 +3,10 @@
 
 ## Who's this girl?
 
-My name is **Liridona ISUFI**, actually part of the *IT-Academy* school based in Lyon, learning how to be un awsome **Software Tester** for your unique & beautiful applications, web sites or even your video games!
+My name is **Liridona ISUFI**, actually part of the *IT-Academy* school based in Lyon,
+learning how to be un awsome **Software Tester** for your unique & beautiful applications, web sites or even your video games!  
+  
+[Curios to see my linkedin account? Click right here to get to my profile](https://www.linkedin.com/in/liridona-isufi-1077231a4/)
 
 
 ## Let's dive into my Professional Experience
@@ -31,6 +34,6 @@ AFAS - Institute of Accounting | 2013 - PRISTINA (KOSOVO)
 **BAC + 2 ARCHITECTURE**  
 National School of Architecture | 2012 - PRISTINA (KOSOVO)
 
-**BACCALAUREATE IN MATHEMATICS AND COMPUTER SCIENCE**
+**BACCALAUREATE IN MATHEMATICS AND COMPUTER SCIENCE**  
 Gymnasium "Kuvendi i Arberit" | 2010 - FERIZAJ (KOSOVO)
 
