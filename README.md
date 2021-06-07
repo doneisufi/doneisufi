@@ -2,7 +2,7 @@
 ![twitter-min](https://user-images.githubusercontent.com/79982927/120997794-cb48f280-c787-11eb-87e1-d0a9db6e8a70.jpg)
 
 My name is **Liridona ISUFI**, actually part of the *IT-Academy* school based in Lyon,
-learning how to be un awsome **Software Tester** for your unique & beautiful applications, web sites or even your video games!  
+learning how to be an awsome **Software Tester** for your unique & beautiful applications, web sites or even your video games!  
 
 
 ## 👩‍💻 Professional Experience
