@@ -6,6 +6,9 @@ learning how to be an awsome **Software Tester** for your unique & beautiful app
 
 
 ## 👩‍💻 Professional Experience
+**QA Consultant (Functional & Technical)**  
+CGI VAISE | AVRIL 2022 - SEPTEMBER 2025 LYON
+
 **TRAINEE DEVELOPMENT TESTER**  
 UBISOFT IVORY-TOWER | OCTOBER 2021 - DECEMBER 2021 VILLEURBANNE
 
@@ -17,8 +20,6 @@ SIMPLON PROD VENISSIEUX | SEP 2019 - JULY 2020
 SUPERVIVA FERIZAJ (KOSOVO) | MAY 2013 - NOV 2014
 - Commodity flow analyses to make the stock more reliable and promote product availability.
 - Validation and archiving of expense reports and guarantees of timely processing of overhead invoices.
-- Preparation of employment contracts and amendments.
-- Monitoring of absenteeism and implementation of actions.
 
 
 ## 📚 Education
